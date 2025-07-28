@@ -13,7 +13,7 @@ This is a **Python Tkinter + PostgreSQL** Library Management System.
 ## 🚀 How to Run
 1. Install dependencies:  
    ```bash
-   pip install psycopg2 pillow
+   pip install psycopg2 tkinter
    ```
 2. Set up the PostgreSQL database and tables (use the provided SQL).
 3. Update your database credentials in `library_management.py`.
